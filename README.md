@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+hi this is simos first open source app
 
 ## What it does
 
-FEATURES PLACEHOLDER
+hi checkout the features
 
 ## Getting started
 
